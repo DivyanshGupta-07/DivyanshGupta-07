@@ -8,10 +8,10 @@
 <a href="https://x.com/_divyansh_exe" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="www.linkedin.com/in/divyanshgupta1" target="_blank">
+<a href="https://www.linkedin.com/in/divyanshgupta1/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.instagram.com/divyansh_gupta1202" target="_blank">
+<a href="https://www.instagram.com/divyansh_gupta1202/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
  <br /> <br />
@@ -122,6 +122,6 @@ Please do consider dropping a ‚≠ê for this repo and some of my recent Repos. ü•
 ## Need help?
 <i>Follow me around the web:</i><br>
 
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:divyanshg2000?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) [![GitHub Anmol](https://img.shields.io/github/followers/DivyanshGupta-07?label=follow&style=social)](https://github.com/DivyanshGupta-07)[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/divyansh_gupta1202/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/divyanshgupta1) [![Twitter Follow](https://img.shields.io/twitter/follow/Divyansh?style=social)](https://x.com/_divyansh_exe) 
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:divyanshg2000?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.) [![GitHub Anmol](https://img.shields.io/github/followers/DivyanshGupta-07?label=follow&style=social)](https://github.com/DivyanshGupta-07)[![Instagram](https://img.shields.io/badge/Instagram-follow-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/divyansh_gupta1202/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshgupta1/) [![Twitter Follow](https://img.shields.io/twitter/follow/Divyansh?style=social)](https://x.com/_divyansh_exe) 
 
 </p>
